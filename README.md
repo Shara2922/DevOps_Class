@@ -1,12 +1,11 @@
-Hello I am Shara Rahman
+# My DevOps Journey 🚀
 
-# My DevOps Journey
-
-## Introduction
+## Introduction🌟
+Hello I am Shara Rahman.
 Welcome to my DevOps learning notes! This file contains all the concepts, tools, and practices I've explored as a beginner in DevOps.
 ---
 
-## Contents
+## Contents📜
 - [What is DevOps?](#what-is-devops)
 - [Basic Linux Commands](#basic-linux-commands)
 - [Version Control with Git](#version-control-with-git)
@@ -14,7 +13,7 @@ Welcome to my DevOps learning notes! This file contains all the concepts, tools,
 ---
 
 ## What is DevOps?
-DevOps is a set of practices that combines software development (Dev) and IT >
+DevOps is a set of practices that combines software development (Dev) and IT operations.
 
 ---
 
@@ -49,12 +48,12 @@ Welcome to my DevOps learning notes! This file contains all the concepts, too>
 - [Linux File Permission](What-are-linux-file-permission)
 ---
 
-## What is DevOps?
+## ⚙️ What is DevOps?
 DevOps is a set of practices that combines software development (Dev) and IT >
 
 ---
 
-## Basic Linux Commands
+## 🐧 Basic Linux Commands
 Here are some Linux commands I learned:
 - `ls`: List files and directories.
 - `cd`: Change directories.
@@ -62,14 +61,14 @@ Here are some Linux commands I learned:
 
 ---
 
-## Version Control with Git
-### Commands
+## 🕵️ Version Control with Git
+### 📢 Commands
 - `git init`: Initialize a repository.
 - `git add`: Stage changes.
 - `git commit`: Save changes to the repository.
 ---
 
-## What are Linux File Permissions?
+## 🔒 What are Linux File Permissions?
 
 Linux file permissions consist of three sets of permissions:
 
@@ -77,12 +76,12 @@ Linux file permissions consist of three sets of permissions:
 -Group Permissions: Define permissions for members of the file’s group.
 -Other Permissions: Set permissions for all other users on the system.
 
-### Chmod: Chmod uses a numerical code called a "mode" to assign permissions >
+ 🚨 Chmod: Chmod uses a numerical code called a "mode" to assign permissions >
 
-### Chown: The chown command is used to change the owner or group of a file o>
+ 🚨 Chown: The chown command is used to change the owner or group of a file o>
 
 ---
-## Resources and References
+## 🔗 Resources and References
 - [Official DevOps Handbook](https://devops-handbook.com/)
 - [https://medium.com/@thisislong/linux-basics-file-permissions-792dbd7790ce]
 - [https://chmod-calculator.com/]
