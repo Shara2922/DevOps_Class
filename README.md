@@ -1,4 +1,4 @@
-"# Consistent" 
+# Consistent 
 "Hello"
 "I am Shara"
-# PycharmProjects
+
