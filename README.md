@@ -3,7 +3,7 @@ Hello I am Shara Rahman
 # My DevOps Journey
 
 ## Introduction
-Welcome to my DevOps learning notes! This file contains all the concepts, too>
+Welcome to my DevOps learning notes! This file contains all the concepts, tools, and practices I've explored as a beginner in DevOps.
 ---
 
 ## Contents
