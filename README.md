@@ -18,27 +18,45 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 
 ---
 
-## 🌐 Basic Linux Commands
-Here are some Linux commands I learned:
-- `ls`: List files and directories.
-- `cd`: Change directories.
-- `touch`: Create new files.
-
----
-
 ## 🐧 Basic Linux Commands
 Here are some Linux commands I learned:
-- `ls`: List files and directories.
-- `cd`: Change directories.
-- `touch`: Create new files.
+1. ls - List directory contents.
+    Example: ls -l (detailed listing)
 
+2. cd - Change directory.
+   Example: cd /home/user (navigate to /home/user)
+
+3. pwd - Print working directory.
+    Example: pwd (shows current directory)
+
+4. mkdir - Create a new directory.
+    Example: mkdir new_folder
+
+5. rmdir - Remove an empty directory.
+    Example: rmdir empty_folder
+
+6. touch - Create an empty file.
+    Example: touch file.txt
+
+7. cp - Copy files or directories.
+    Example: cp source.txt destination.txt
+
+8. mv - Move or rename files or directories.
+    Example: mv oldname.txt newname.txt
+
+9. rm - Remove files or directories.
+    Example: rm file.txt or rm -r folder
+   
+11. find - Search for files or directories.
+    Example: find / -name file.txt
+    
 ---
 
 ## 🕵️ Version Control with Git
 ### 📢 Commands
-- `git init`: Initialize a repository.
-- `git add`: Stage changes.
-- `git commit`: Save changes to the repository.
+1. `git init`: Initialize a repository.
+2. `git add`: Stage changes.
+3. `git commit`: Save changes to the repository.
 
 ---
 
@@ -50,9 +68,13 @@ Linux file permissions consist of three sets of permissions:
 -Group Permissions: Define permissions for members of the file’s group.
 -Other Permissions: Set permissions for all other users on the system.
 
- 🚨 Chmod: Chmod uses a numerical code called a "mode" to assign permissions >
+ 🚨 chmod - Change file permissions.
 
- 🚨 Chown: The chown command is used to change the owner or group of a file o>
+    Example: chmod 755 file.txt
+
+🚨 chown - Change file ownership.
+
+    Example: chown user:group file.txt
 
 ---
 ## 🔗 Resources and References
