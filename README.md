@@ -3,6 +3,7 @@
 ## Introduction🌟
 Hello I am Shara Rahman.
 Welcome to my DevOps learning notes! This file contains all the concepts, tools, and practices I've explored as a beginner in DevOps.
+
 ---
 
 ## Contents📜
@@ -12,44 +13,16 @@ Welcome to my DevOps learning notes! This file contains all the concepts, tools,
 - [Linux File Permission](What-are-linux-file-permission)
 ---
 
-## What is DevOps?
+## 💻 What is DevOps?
 DevOps is a set of practices that combines software development (Dev) and IT operations.
 
 ---
 
-## Basic Linux Commands
+## 🌐 Basic Linux Commands
 Here are some Linux commands I learned:
 - `ls`: List files and directories.
 - `cd`: Change directories.
 - `touch`: Create new files.
-
----
-
-## Version Control with Git
-### Commands
-- `git init`: Initialize a repository.
-- `git add`: Stage changes.
-- `git commit`: Save changes to the repository.
----
-
-## What are Linux File Permissions?
-Hello I am Shara Rahman
-
-# My DevOps Journey
-
-## Introduction
-Welcome to my DevOps learning notes! This file contains all the concepts, too>
----
-
-## Contents
-- [What is DevOps?](#what-is-devops)
-- [Basic Linux Commands](#basic-linux-commands)
-- [Version Control with Git](#version-control-with-git)
-- [Linux File Permission](What-are-linux-file-permission)
----
-
-## ⚙️ What is DevOps?
-DevOps is a set of practices that combines software development (Dev) and IT >
 
 ---
 
@@ -66,6 +39,7 @@ Here are some Linux commands I learned:
 - `git init`: Initialize a repository.
 - `git add`: Stage changes.
 - `git commit`: Save changes to the repository.
+
 ---
 
 ## 🔒 What are Linux File Permissions?
