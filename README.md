@@ -11,6 +11,13 @@ Welcome to my DevOps learning notes! This file contains all the concepts, tools,
 - [Commands Covered](#command_covered)
 - [Topics Covered](#topics_covered)
 - [Ultimate System Desgin Guide](https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b)
+- [Understanding AWS IAM policies best practices from zero](https://medium.com/globant/understanding-aws-iam-policies-best-practices-from-zero-b51ff57dcbc8)
+- [AWS EC2: An In-Depth Guide to Elastic Compute Cloud](https://medium.com/@teja.ravi474/aws-ec2-an-in-depth-guide-to-elastic-compute-cloud-bf713394a245)
+- [Mastering YAML in DevOps: The Essential Guide to Error-Free Configurations](https://medium.com/@emafzal/mastering-yaml-in-devops-the-essential-guide-to-error-free-configurations-5e8ff9c5b78e)
+- [Elastic IP: Your Dynamically in the AWS Cloud](https://medium.com/@servifyspheresolutions/elastic-ip-mastery-your-dynamically-in-the-aws-cloud-8c115c023d9a)
+- -[AWS CloudFront: From Basic to Advanced](https://medium.com/@servifyspheresolutions/aws-cloudfront-from-basic-to-advanced-fc0ed56c2443)
+- -[AWS S3 Tutorial: Deep Dive into Amazon Simple Storage Service](https://medium.com/edureka/aws-s3-tutorial-d883e5cc2cf5)
+- [Instagram System Design](https://nikhilgupta1.medium.com/instagram-system-design-f62772649f90)
 
 ---
 
