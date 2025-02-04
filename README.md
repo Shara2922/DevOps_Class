@@ -18,6 +18,7 @@ Welcome to my DevOps learning notes! This file contains all the concepts, tools,
 - [AWS CloudFront: From Basic to Advanced](https://medium.com/@servifyspheresolutions/aws-cloudfront-from-basic-to-advanced-fc0ed56c2443)
 - [AWS S3 Tutorial: Deep Dive into Amazon Simple Storage Service](https://medium.com/edureka/aws-s3-tutorial-d883e5cc2cf5)
 - [Instagram System Design](https://nikhilgupta1.medium.com/instagram-system-design-f62772649f90)
+- [Practice Lab](#practice_lab)
 
 ---
 
