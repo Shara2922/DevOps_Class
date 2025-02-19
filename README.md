@@ -6,6 +6,7 @@ Welcome to my DevOps learning notes! This file contains all the concepts, tools,
 
 ---
 ## 📘 Contents
+<<<<<<< HEAD
 - [What is DevOps?](#what-is-devops)
 - [Courses and Certifications](courses_and_certifications)
 - [Commands Covered](#command_covered)
@@ -20,6 +21,15 @@ Welcome to my DevOps learning notes! This file contains all the concepts, tools,
 - [Instagram System Design](https://nikhilgupta1.medium.com/instagram-system-design-f62772649f90)
 - [Practice Lab](#practice_lab)
 
+=======
+-  [What is DevOps?](#what-is-devops)
+-  [Courses and Certifications](courses_and_certifications)
+-  [Commands Covered](#command_covered)
+-  [Topics Covered](#topics_covered)
+-  [Ultimate System Desgin Guide](https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b)
+-  [Deploy a Static Website in EC2 Successfully](Deploy_a_Static_Website_in_EC2_Successfully)
+-  [Deploying a Todo App to AWS EC2 with GitHub Actions and Docker](Deploying_a_Todo_App_to_AWS_EC2_with_GitHub_Actions_and_Docker)
+>>>>>>> 7b92a86 (updated)
 ---
 
 ## 💻 What is DevOps?
