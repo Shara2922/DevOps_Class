@@ -15,9 +15,16 @@ Welcome to my DevOps learning notes! This file contains all the concepts, tools,
 -  [Deploying a Todo App to AWS EC2 with GitHub Actions and Docker](Deploying_a_Todo_App_to_AWS_EC2_with_GitHub_Actions_and_Docker)
 
 ---
-
 ## 💻 What is DevOps?
 DevOps is a set of practices that combines software development (Dev) and IT operations. DevOps aims to deliver products that are ready for release at any time. 
+
+---
+## Tools and Technologies 🛠️
+Here’s a list of essential DevOps tools and platforms:
+- **Version Control**: [Git](https://git-scm.com), [GitHub](https://github.com)
+- **CI/CD**: [Jenkins](https://www.jenkins.io), [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
+- **Containerization**: [Docker](https://www.docker.com), [Podman](https://podman.io)
+- **Cloud Platforms**: [AWS](https://aws.amazon.com)
 
 ---
 ## **🏆 Courses and Certifications**
