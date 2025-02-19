@@ -22,8 +22,8 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 ## Tools and Technologies 🛠️
 Here’s a list of essential DevOps tools and platforms:
 - **Version Control**: [Git](https://git-scm.com), [GitHub](https://github.com)
-- **CI/CD**: [Jenkins](https://www.jenkins.io), [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
-- **Containerization**: [Docker](https://www.docker.com), [Podman](https://podman.io)
+- **CI/CD**: [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
+- **Containerization**: [Docker](https://www.docker.com)
 - **Cloud Platforms**: [AWS](https://aws.amazon.com)
 
 ---
