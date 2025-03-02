@@ -12,8 +12,8 @@ Welcome to my DevOps learning notes! This file contains all the concepts, tools,
 -  [Topics Covered](#topics_covered)
 -  [Ultimate System Desgin Guide](https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b)
 -  [Deploy a Static Website in EC2 Successfully](Deploy_a_Static_Website_in_EC2_Successfully)
--  [Deploying a Todo App to AWS EC2 with GitHub Actions and Docker](Deploying_a_Todo_App_to_AWS_EC2_with_GitHub_Actions_and_Docker)
-
+-  [Deploying a Todo App to AWS EC2](Deploying_a_Todo_App_to_AWS_EC2)
+-  [CI/CD Pipeline](CI/CD_Pipeline)
 ---
 ## 💻 What is DevOps?
 DevOps is a set of practices that combines software development (Dev) and IT operations. DevOps aims to deliver products that are ready for release at any time. 
