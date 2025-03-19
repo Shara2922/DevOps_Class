@@ -27,7 +27,7 @@ Here’s a list of essential DevOps tools and platforms:
 - **Cloud Platforms**: [AWS](https://aws.amazon.com)
 
 ---
-## **🏆 Courses and Certifications**
+## ** 🏆 Courses and Certifications**
 - [Git Mastery: Beginner to Expert with GitHub & GitLab](https://www.udemy.com)
 - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com)
 
@@ -120,4 +120,3 @@ Here’s a list of essential DevOps tools and platforms:
 - [Official DevOps Handbook](https://devops-handbook.com/)
 - [https://medium.com/@thisislong/linux-basics-file-permissions-792dbd7790ce]
 - [https://chmod-calculator.com/]
-
