@@ -5,7 +5,7 @@ Hello I am Shara Rahman.
 Welcome to my DevOps learning notes! This file contains all the concepts, tools, and practices I've explored as a beginner in DevOps.
 
 ---
-## 📘 Contents
+## 📘 Contents and Hands-on
 -  [What is DevOps?](#what-is-devops)
 -  [Courses and Certifications](courses_and_certifications)
 -  [Commands Covered](#command_covered)
@@ -14,6 +14,7 @@ Welcome to my DevOps learning notes! This file contains all the concepts, tools,
 -  [Deploy a Static Website in EC2 Successfully](Deploy_a_Static_Website_in_EC2_Successfully)
 -  [Deploying a Todo App to AWS EC2](Deploying_a_Todo_App_to_AWS_EC2)
 -  [CI/CD Pipeline](CI/CD_Pipeline)
+-  [Expose App using Kubernetes Service](Expose_App_using_Kubernetes_Service)
 ---
 ## 💻 What is DevOps?
 DevOps is a set of practices that combines software development (Dev) and IT operations. DevOps aims to deliver products that are ready for release at any time. 
@@ -25,6 +26,9 @@ Here’s a list of essential DevOps tools and platforms:
 - **CI/CD**: [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
 - **Containerization**: [Docker](https://www.docker.com)
 - **Cloud Platforms**: [AWS](https://aws.amazon.com)
+- **Orchestration**: [Kubernetes](https://kubernetes.io)
+- **Infrastructure as Code**: [Terraform](https://www.terraform.io)
+
 
 ---
 ## ** 🏆 Courses and Certifications**
